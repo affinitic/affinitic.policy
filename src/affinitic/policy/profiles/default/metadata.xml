@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <version>1000</version>
+  <dependencies>
+    <dependency>profile-affinitic.topportlets:default</dependency>
+    <dependency>profile-affinitic.core:default</dependency>
+    <dependency>profile-affinitic.theme:default</dependency>
+    <dependency>profile-affinitic.viewlet.geomarker:default</dependency>
+    <dependency>profile-plone.app.mosaic:default</dependency>
+  </dependencies>
+</metadata>

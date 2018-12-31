@@ -1,0 +1,5 @@
+================
+affinitic.policy
+================
+
+User documentation
